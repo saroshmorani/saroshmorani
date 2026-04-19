@@ -37,18 +37,18 @@
 
 <br/>
 
-## &nbsp;get in touch
+## &nbsp;Get in Touch
 
 <p>
   <a href="https://github.com/saroshmorani">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:saroshanwerali@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/sarosh-morani/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
