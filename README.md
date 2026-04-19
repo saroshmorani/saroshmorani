@@ -9,8 +9,8 @@
 ## About Me
 
 - &nbsp; Studying Computer Science at **FAST NUCES, Karachi**
-- &nbsp; currently exploring **Web Development**, **AI/ML**, and **Mobile Apps**
-- &nbsp; i love building things and figuring out how they work
+- &nbsp; Currently exploring **Web Development**, **AI/ML**, and **Mobile Apps**
+- &nbsp; I love building things and figuring out how they work
 - &nbsp; Always learning, Always curious
 
 <br/>
